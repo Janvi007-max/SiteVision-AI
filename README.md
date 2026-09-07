@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ SiteVision AI — Autonomous Construction Safety, Face ID & DLP Governance
 
 An autonomous AI-powered construction safety governance platform built with **Python**, **OpenCV**, **YOLOv8**, and **Google Gemini Vision LLM** / **Local NLP**. Styled with a luxury, next-gen SaaS dark theme featuring an interactive animated Hero Hub, 3-band biometric face recognition, and real-time DLP contraband enforcement.
@@ -51,3 +52,7 @@ streamlit run app.py
 ```
 
 Open your browser at `http://localhost:8501`.
+=======
+# SiteVision-AI
+An autonomous AI-powered construction safety governance platform built with **Python**, **OpenCV**, **YOLOv8**, and **Google Gemini Vision LLM** / **Local NLP**. Styled with a luxury, next-gen SaaS dark theme featuring an interactive animated Hero Hub, 3-band biometric face recognition, and real-time DLP contraband enforcement.
+>>>>>>> 7f6f363cb9fc97ab23d9077dd388b0cbcd32dd26
